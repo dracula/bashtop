@@ -1,20 +1,20 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [bashtop](https://draculatheme.com/bashtop)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [bashtop](https://draculatheme.com/bashtop).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./bashtop.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/bashtop](https://draculatheme.com/bashtop).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by Austin Kilgore and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Austin Kilgore](https://github.com/TechieAndroid.png?size=100)](https://github.com/TechieAndroid) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Austin Kilgore](https://github.com/TechieAndroid) |
 
 ## License
 
