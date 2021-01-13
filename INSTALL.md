@@ -1,4 +1,4 @@
-### [bashtop](https://draculatheme.com/bashtop)
+### [bashtop](https://github.com/aristocratos/bashtop)
 
 #### Install using Git
 
@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/bashtop/arc
 
 #### Activating theme
 
-1. Copy dracula.theme to ~/.config/bashtop/user_themes/
-2. Start bashtop, press m for the menu, go to options, "Color theme" and set dracula as the theme.
+1. Copy `dracula.theme` to `~/.config/bashtop/user_themes/`
+2. Start bashtop, press `m` for the menu, go to options, *"Color theme"* and set dracula as the theme.
 3. Enjoy :)
