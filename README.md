@@ -2,7 +2,7 @@
 
 > A dark theme for [bashtop](https://draculatheme.com/bashtop).
 
-![Screenshot](./bashtop.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
